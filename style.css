@@ -12,3 +12,15 @@ img{
 .vi-bg-light-dark{
     background-color: #363636;
 }
+
+.vi-bg-first-section{
+    background-image: url(\img/jumbo-bg.png);
+    background-position: 50%;
+   background-size: cover;
+    height: 90vh;
+
+}
+
+.vi-bg-red{
+    background-color: #cd3d0f;
+}
