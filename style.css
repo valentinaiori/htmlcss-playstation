@@ -1,0 +1,14 @@
+/* generics */
+
+img{
+    width: 100%;
+}
+
+.vi-bg-black{
+    background-color: black;
+    height: 10vh;
+}
+
+.vi-bg-light-dark{
+    background-color: #363636;
+}
