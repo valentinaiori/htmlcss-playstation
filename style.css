@@ -54,3 +54,18 @@ img{
     background-color: #d9dadc;
     border-color: #d9dadc;
 }
+
+.vi-playstation-now{
+    background-color: #0072ce;
+
+}
+
+.vi-bg-white{
+    background-color: white;
+    color: black;
+    border-color: white;
+}
+
+.vi-text{
+    margin-top: 5rem;
+}
