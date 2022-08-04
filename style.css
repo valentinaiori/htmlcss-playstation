@@ -6,7 +6,10 @@ img{
 
 .vi-bg-black{
     background-color: black;
-    height: 10vh;
+}
+
+.vi-sony-logo{
+    width: 130px;
 }
 
 .vi-bg-light-dark{
