@@ -35,6 +35,9 @@ img{
     color: #0072ce;
 }
 
+.card img:hover{
+    border: 3px solid #0072ce;
+}
 
 .vi-bg-fourth-section{
     background-image: url(\img/it-takes-two-hero-banner-desktop.jpg);
