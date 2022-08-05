@@ -46,8 +46,20 @@ img{
     background-color: #1f1f1f;
 }
 
+#playstation-5 a:hover{
+    border-bottom: 2px solid #0072ce;
+}
+
+#playstation-5 a{
+    color: black;
+    text-decoration: none;
+}
 .vi-bg-seventh-section{
     background-color: #bebcbb;
+}
+
+.vi-img-seventh-section{
+    height: 100%;
 }
 
 .vi-button-color{
